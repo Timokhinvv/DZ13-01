@@ -39,6 +39,8 @@
   
 *Приведите ответ в свободной форме.*  
 
+/home/kali/Pictures/Screenshot_2025-05-03_09_48_50.png
+
 ### Задание 2
 
 Проведите сканирование Metasploitable в режимах SYN, FIN, Xmas, UDP.
