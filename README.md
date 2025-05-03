@@ -59,3 +59,16 @@
 - Как отвечает сервер?
 
 *Приведите ответ в свободной форме.*
+
+
+SYN
+![Screenshot_2025-05-03_12_00_41](https://github.com/user-attachments/assets/18b1ebee-5477-4a03-a896-8e99df6637aa)
+
+FIN
+![Screenshot_2025-05-03_15_50_05](https://github.com/user-attachments/assets/75961cb9-91ba-4f52-ac8c-3197a6d176b6)
+
+Xmas
+![Screenshot_2025-05-03_16_06_37](https://github.com/user-attachments/assets/46252140-d8f1-4d4b-9da3-8d3134933cfb)
+
+UDP
+![Screenshot_2025-05-03_16_11_10](https://github.com/user-attachments/assets/e0175a92-3a62-4460-bd55-1c3dba8b1bcd)
