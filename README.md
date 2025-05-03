@@ -39,7 +39,13 @@
   
 *Приведите ответ в свободной форме.*  
 
-/home/kali/Pictures/Screenshot_2025-05-03_09_48_50.png
+- С помощью nmap можно обнаружить множество открытых портов, видно на слайде, которые прослушивают OpenSSH, telnet, Apache, PostgreSQL, MySQL и т.д.
+![Screenshot_2025-05-03_09_48_50](https://github.com/user-attachments/assets/25687bbf-9d65-470b-8d3d-66ec49ff9c70)
+
+- По уязвимостям:
+   1. https://www.exploit-db.com/exploits/30744  MySQL 5.1.23 - Server InnoDB CONVERT_SEARCH_MODE_TO_INNOBASE Function Denial of Service – работает для MySQL 5.1.23 и ранее. Вызывает "отказ в обслуживании" за счёт ввода определённых данных.
+   2. https://www.exploit-db.com/exploits/32849  PostgreSQL 8.3.6 - Conversion Encoding Remote Denial of Service Смена кодировки, из-за которой происходит разрыв соединений.
+   3. https://www.exploit-db.com/exploits/32798  ProFTPd 1.3 - 'mod_sql' 'Username' SQL Injection – актуально для 1.3.1-1.3.2. SQL-инъекция.
 
 ### Задание 2
 
